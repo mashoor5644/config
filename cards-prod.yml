@@ -1,5 +1,5 @@
 build:
-  version: "11.00"
+  version: "11.000"
 
 cards:
   message: "This is related to cards APIs of PROD"
