@@ -5,7 +5,7 @@ accounts:
   message: "This is related to account APIs of PROD"
   contactDetails:
     name: "person1 PROD Lead"
-    email: "person111@gmail.com"
+    email: "72b21145daa4b551196ea74817ca75e2b8aaffd90670d2405e64e03e34148c54d762bac1edce85bc845b24ea553596a1"
   onCallSupport:
     -66655511
     -777755511
