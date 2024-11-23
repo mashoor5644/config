@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "This is related to account APIs"
+  message: "This is related to account default APIs"
   contactDetails:
     name: "person1"
     email: "person1@gmail.com"
