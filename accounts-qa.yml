@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "This is related to account APIs of QA"
+  contactDetails:
+    name: "person1 QA Lead"
+    email: "person11@gmail.com"
+  onCallSupport:
+    -666555
+    -7777555

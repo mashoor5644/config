@@ -1,0 +1,10 @@
+build:
+  version: "11.0"
+cards:
+  message: "This is related to cards APIs"
+  contactDetails:
+    name: "person1"
+    email: "person1@gmail.com"
+  onCallSupport:
+    -66666666
+    -77777777

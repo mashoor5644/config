@@ -1,0 +1,11 @@
+build:
+  version: "11.0"
+
+cards:
+  message: "This is related to cards APIs of PROD"
+  contactDetails:
+    name: "person1 PROD Lead"
+    email: "person111@gmail.com"
+  onCallSupport:
+    -66655511
+    -777755511
