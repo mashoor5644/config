@@ -2,7 +2,7 @@ build:
   version: "11.000"
 
 cards:
-  message: "This is related to cards APIs of PROD"
+  message: "This is related to cards APIs of PRODUCTION"
   contactDetails:
     name: "person1 PROD Lead"
     email: "person111@gmail.com"
